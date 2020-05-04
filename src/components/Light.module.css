@@ -1,0 +1,100 @@
+.app{
+    margin: 0 auto;
+    width: 1580px;
+    height: 600px;
+}
+
+
+.lamp{
+    position: relative;
+    height: 185px;
+    width: 135px;
+    top: 170px;
+    border-radius: 100%;
+    left: 740px;
+}
+.buttonyellow{
+    position: relative;
+    top: 130px;
+    height: 30px;
+    width: 50px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color:yellow ;
+    color: black;
+    outline: none;
+    left: 40px;
+}
+.buttonred{
+    position: relative;
+    top: 130px;
+    height: 30px;
+    width: 50px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color:red ;
+    color: black;
+    outline: none;
+    left: 50px;
+}
+.buttonblue{
+    position: relative;
+    top: 130px;
+    height: 30px;
+    width: 50px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color:blue ;
+    color: black;
+    outline: none;
+    left: 60px;
+}
+.buttonoff{
+    position: relative;
+    top: 210px;
+    height: 30px;
+    width: 60px;
+    background-color:black ;
+    color: white;
+    outline: none;
+    right: 114px;
+    border-radius: 20px;
+}
+
+.halflamp{
+    position: relative;
+    top: 100px;
+    height: 110px;
+    width: 70px;
+   left:773.2px;
+   border-radius: 10px;
+    
+}
+.bottomlamp{
+    width: 67px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    margin: 4px;
+    left: 770.9px;
+    top: 100px;
+    border-radius: 20px;
+}
+.sbottomlamp{
+    width: 55px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 781.6px;
+    top: 100px;
+   
+}
+.tbottomlamp{
+    width: 37px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 790.9px;
+    top: 91px;
+   
+}
